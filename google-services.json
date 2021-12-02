@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380241950575",
+    "project_id": "ionicpushfcm-fbb20",
+    "storage_bucket": "ionicpushfcm-fbb20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380241950575:android:20a8759be7c42503391a9a",
+        "android_client_info": {
+          "package_name": "fcm.push.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380241950575-ri35mdpueppqlsmojmgc42rvvo8tkm2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBda0APUvCILT0gtEu5PHZvRTBHsYaCfHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380241950575-ri35mdpueppqlsmojmgc42rvvo8tkm2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
